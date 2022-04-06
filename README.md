@@ -5,7 +5,9 @@ My main programming language is **JAVA**. 💻
 
 
 ### Find me around the web 🌎:
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+<p align="left">
+  <a target="_blank"href="https://www.linkedin.com/in/katarzyna-gnoza/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ### Languages :
