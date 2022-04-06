@@ -1,6 +1,6 @@
 ## Hi everyone! 👋
-My name is **Kasia** and I'm 26 years old.
-My main programming language is **JAVA**. 💻
+My name is **Kasia** , I'm 26 years old. 
+My main programming language is **JAVA**. ❤️ I looking for a job as a junior java developer. 💻
 
 
 
