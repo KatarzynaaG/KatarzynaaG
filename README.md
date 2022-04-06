@@ -13,3 +13,7 @@ My main programming language is **JAVA**. 💻
 ### Languages :
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+<p align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=KatarzynaaG" alt="https://github.com/KatarzynaaG" />
+</p>
