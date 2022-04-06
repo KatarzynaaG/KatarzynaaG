@@ -1,4 +1,6 @@
 # Hi everyone! 👋
-My name is **Kasia** and this is my first repository on GitHub. I'm very excited. 🥰
+My name is **Kasia** and and I'm 26 years old.
+My main programming language is **JAVA**. 💻
 
-♥️ My first love is **JAVA** ♥️ besides i love ☕ , ⛰️, 📚 and 🐱. 
+Find me around the web 🌎:
+https://www.linkedin.com/in/katarzyna-gnoza-98b868236/
