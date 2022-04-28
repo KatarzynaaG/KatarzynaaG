@@ -18,4 +18,4 @@ My main programming language is **JAVA**. ❤️ I looking for a job as a junior
   <img src="https://komarev.com/ghpvc/?username=KatarzynaaG" alt="https://github.com/KatarzynaaG" />
 </p>
 
-https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png
+
