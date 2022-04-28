@@ -10,7 +10,7 @@ My main programming language is **JAVA**. ❤️ I looking for a job as a junior
   <a target="_blank"href="https://www.linkedin.com/in/katarzyna-gnoza/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-### Languages :
+### Languages and Tools :
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 <p align="center">
