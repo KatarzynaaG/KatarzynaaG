@@ -19,5 +19,5 @@ My main programming language is **JAVA**. ❤️ I looking for a job as a junior
 </p>
 
 ![SQL](https://upload.wikimedia.org/wikipedia/commons/8/40/Sql_data_base_with_logo.png) 
-<p align="center">
+<p align=>
 
