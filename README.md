@@ -4,7 +4,7 @@ My main programming language is **JAVA**. ❤️I love to learn 📖 and each ne
 
 I looking for a job as a junior java developer!
  
-##strives to become a full-stack developer.
+### strives to become a full-stack developer.
 
 
 
