@@ -1,10 +1,11 @@
 ## Hi everyone! 👋
 My name is **Kasia** , I'm 26 years old. 
 My main programming language is **JAVA**. ❤️I love to learn 📖 and each new problem motivates me to develop. 🦾
+*Sives to become a full-stack developer.* 👩‍🎓
 
 I looking for a job as a junior java developer!
  
- *Sives to become a full-stack developer.* 👩‍🎓
+ 
 
 
 
